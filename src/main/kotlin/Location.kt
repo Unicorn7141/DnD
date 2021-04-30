@@ -1,12 +1,15 @@
-enum class Directions {
-    FOREST,
-    RIVER,
-    CASTLE,
-    VILLAGE,
-    CITY,
-    CAVE,
-    MOUNTAIN,
-    CLIFF,
-    DUNGEON,
-    HOUSE
+enum class Location(location: String) {
+    FOREST("Forest"),
+    RIVER("River"),
+    CASTLE("Castle"),
+    VILLAGE("Village"),
+    CITY("City"),
+    CAVE("Cave"),
+    MOUNTAIN("Mountain"),
+    CLIFF("Cliff"),
+    DUNGEON("Dungeon"),
+    HOUSE("House"),
+    MANSION("Mansion"),
+    SHORE("Shore"),
+    ISLAND("Island")
 }

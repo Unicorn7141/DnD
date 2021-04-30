@@ -9,7 +9,10 @@ gain XP, level up, get better gear, and beat bosses!
 ---
 
 - [ ] Add character types
-- [ ] Add locations
+- [ ] Add Items
+- [ ] Add Badges
+- [ ] Add Roles
+- [x] Add locations
 - [ ] Add situation picker 
 - [ ] Save the data
 - [ ] Add server connectivity [Optional]
